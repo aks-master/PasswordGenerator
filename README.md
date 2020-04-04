@@ -10,4 +10,4 @@ simple angular app build during COVID-19 lockdown
 created using angular and bulma css
 
 #
-visit : https://password-generator.aks-master.now.sh(https://password-generator.aks-master.now.sh)
+visit : https://password-generator.aks-master.now.sh
